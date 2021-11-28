@@ -1,0 +1,39 @@
+.App {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.task {
+  display: flex;
+  justify-content: space-between;
+  border: solid blue 1px;
+  margin-top: 20px;
+  padding: 5px;
+  border-radius: 16px;
+}
+.taskItem {
+  width: 25%;
+}
+.logo{
+  width: 200px;
+  height: 50px;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-item{
+  margin-right: 40px;
+  font-weight: 700;
+  font-size: 20px;
+}
+.btn{
+  background-color: blue;
+  color: white;
+  width: 15%;
+  padding: 10px;
+  border-radius: 16px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
